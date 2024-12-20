@@ -11,4 +11,5 @@ public:
     ARRAYPROCESSORDYNAMICLIB_API void sortArray(int arr[], int size);
     ARRAYPROCESSORDYNAMICLIB_API int findElement(int arr[], int size, int element);
     ARRAYPROCESSORDYNAMICLIB_API double calculateAverage(int arr[], int size);
+    ARRAYPROCESSORDYNAMICLIB_API double calculateGeometricMean(int arr[], int size);
 };
